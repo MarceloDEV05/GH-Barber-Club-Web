@@ -26,3 +26,22 @@ header nav ul {
 header nav ul li{
     list-style-type: none;
 }
+
+.box-interface{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+    border: none ;
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    border: 1px solid rgb(241, 231, 24);
+    border-radius: 8px;
+    box-shadow: rgba(216, 195, 32, 0.3) 0px 19px 38px, rgba(242, 205, 22, 0.86) 0px 15px 12px;
+}
+
+.box-text{
+    max-width: 600px;
+}
