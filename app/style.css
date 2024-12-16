@@ -45,3 +45,30 @@ header nav ul li{
 .box-text{
     max-width: 600px;
 }
+
+.box-shadowning img{
+    border-radius: 30%;
+}
+
+.imgsCortes{
+    justify-content: center;
+    margin-top: 150px;
+    display: flex;
+    gap: 30px;
+}
+
+.image1, .image2, .image3{
+    border: 1px solid;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.agendar{
+    padding: 10px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: rgba(242, 205, 22, 0.86);
+    color: white;
+}
